@@ -5,3 +5,4 @@ azure-monitor-opentelemetry-exporter ~= 1.0.0b3
 opentelemetry-instrumentation-flask == 0.24b0
 opentelemetry-instrumentation-requests == 0.24b0
 opentelemetry-instrumentation-sqlalchemy == 0.24b0
+setuptools == 75.8.0
